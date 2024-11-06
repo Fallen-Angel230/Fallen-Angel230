@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Fallen-Angel230
+- 👀 I’m interested in ...Ethical Hacking
+- 🌱 I’m currently learning Python
